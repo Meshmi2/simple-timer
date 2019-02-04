@@ -1,0 +1,10 @@
+C:\Users\meshmi\source\repos\Timer\bin\Debug\netcoreapp2.2\Timer.deps.json
+C:\Users\meshmi\source\repos\Timer\bin\Debug\netcoreapp2.2\Timer.runtimeconfig.json
+C:\Users\meshmi\source\repos\Timer\bin\Debug\netcoreapp2.2\Timer.runtimeconfig.dev.json
+C:\Users\meshmi\source\repos\Timer\bin\Debug\netcoreapp2.2\Timer.dll
+C:\Users\meshmi\source\repos\Timer\bin\Debug\netcoreapp2.2\Timer.pdb
+C:\Users\meshmi\source\repos\Timer\obj\Debug\netcoreapp2.2\Timer.csproj.CoreCompileInputs.cache
+C:\Users\meshmi\source\repos\Timer\obj\Debug\netcoreapp2.2\Timer.AssemblyInfoInputs.cache
+C:\Users\meshmi\source\repos\Timer\obj\Debug\netcoreapp2.2\Timer.AssemblyInfo.cs
+C:\Users\meshmi\source\repos\Timer\obj\Debug\netcoreapp2.2\Timer.dll
+C:\Users\meshmi\source\repos\Timer\obj\Debug\netcoreapp2.2\Timer.pdb
